@@ -1,5 +1,5 @@
 # .txt-swag
-.txt file management. can be used at large scale to organize any data.
+.txt file management. This can be tweaked and used at large scale to organize any .txt data.
 For this example I used football.
 I have three seasons worth of football games in text files with no particular order.
 Lets say I want to merge these three seasons into one list and sort the order of teams lexicographically so that my team is easy to find.
