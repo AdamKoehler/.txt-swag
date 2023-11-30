@@ -1,0 +1,60 @@
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 14, Team 2 Score: 31
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 14, Team 2 Score: 35
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 17, Team 2 Score: 21
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Chicago_Bears, Team 1 Score: 28, Team 2 Score: 21
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 24, Team 2 Score: 28
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Chicago_Bears, Team 1 Score: 21, Team 2 Score: 28
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 28, Team 2 Score: 35
+
+Team 1 Name: Arizona_Cardinals, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 14, Team 2 Score: 28
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Arizona_Cardinals, Team 1 Score: 17, Team 2 Score: 14
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 21, Team 2 Score: 24
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 20, Team 2 Score: 21
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 24, Team 2 Score: 28
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Arizona_Cardinals, Team 1 Score: 20, Team 2 Score: 14
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 21, Team 2 Score: 17
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 14, Team 2 Score: 17
+
+Team 1 Name: Chicago_Bears, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 28, Team 2 Score: 24
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Arizona_Cardinals, Team 1 Score: 24, Team 2 Score: 28
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Chicago_Bears, Team 1 Score: 28, Team 2 Score: 17
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 14, Team 2 Score: 31
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Chicago_Bears, Team 1 Score: 17, Team 2 Score: 20
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 24, Team 2 Score: 31
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Arizona_Cardinals, Team 1 Score: 20, Team 2 Score: 24
+
+Team 1 Name: Kansas_Jayhawks, Team 2 Name: Oklahoma_Cowboys, Team 1 Score: 21, Team 2 Score: 31
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 28, Team 2 Score: 21
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Chicago_Bears, Team 1 Score: 35, Team 2 Score: 20
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Arizona_Cardinals, Team 1 Score: 31, Team 2 Score: 14
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Kansas_Jayhawks, Team 1 Score: 31, Team 2 Score: 24
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Arizona_Cardinals, Team 1 Score: 35, Team 2 Score: 14
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Chicago_Bears, Team 1 Score: 17, Team 2 Score: 21
+
+Team 1 Name: Oklahoma_Cowboys, Team 2 Name: Arizona_Cardinals, Team 1 Score: 31, Team 2 Score: 14
+
